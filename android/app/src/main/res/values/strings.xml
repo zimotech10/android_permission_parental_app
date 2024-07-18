@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">multiAPP</string>
+    <string name="device_admin_description">Description for Device Admin</string>
+</resources>
